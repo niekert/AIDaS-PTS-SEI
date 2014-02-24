@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MagazijnApplicatie">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MagazijnApplicatie.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
