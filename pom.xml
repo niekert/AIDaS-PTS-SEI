@@ -9,9 +9,7 @@
     <version>0-SNAPSHOT</version>
 
     <scm>
-        <url>https://github.com/niekert/AIDaS-PTS-SEI.git</url>
         <connection>scm:git:https://github.com/niekert/AIDaS-PTS-SEI.git</connection>
-        <developerConnection>scm:git:https://github.com/niekert/AIDaS-PTS-SEI.git</developerConnection>
     </scm>
     <distributionManagement>
         <repository>
