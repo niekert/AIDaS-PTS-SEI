@@ -12,8 +12,6 @@
     <orderEntry type="library" name="classes12" level="project" />
     <orderEntry type="library" name=".mylyn" level="project" />
     <orderEntry type="library" name="MagazijnApplicatie" level="project" />
-    <orderEntry type="library" name="Maven: org.jdesktop:appframework:1.0.3" level="project" />
-    <orderEntry type="library" name="Maven: org.jdesktop:swing-worker:1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
