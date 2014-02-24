@@ -9,12 +9,12 @@
     <version>1.0-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:https://github.com/verbeen/AIDaS-PTSSEI.git</connection>
+        <connection>https://github.com/niekert/AIDaS-PTS-SEI.git</connection>
     </scm>
     <distributionManagement>
         <repository>
             <id>artifact-repository</id>
-            <url>https://github.com/verbeen/AIDaS-PTSSEI.git</url>
+            <url>https://github.com/niekert/AIDaS-PTS-SEI.git</url>
         </repository>
     </distributionManagement>
 
@@ -40,6 +40,7 @@
                     <formats>
                         <format>xml</format>
                     </formats>
+                    <check/>
                 </configuration>
                 <executions>
                     <execution>
