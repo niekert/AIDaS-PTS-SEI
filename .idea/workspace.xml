@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="414c2db1-6f96-40d4-b1f1-85407a9afce4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -71,7 +70,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="-1.0258621" vertical-offset="918" max-vertical-offset="1309">
+            <state line="15" column="40" selection-start="605" selection-end="605" vertical-scroll-proportion="0.5862069" vertical-offset="51" max-vertical-offset="1309">
               <folding />
             </state>
           </provider>
@@ -471,7 +470,7 @@
       <changelist id="414c2db1-6f96-40d4-b1f1-85407a9afce4" name="Default" comment="" />
       <created>1393233385211</created>
       <updated>1393233385211</updated>
-      <workItem from="1393243037030" duration="288000" />
+      <workItem from="1393243037030" duration="778000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1393235417484</created>
@@ -549,11 +548,15 @@
       <created>1393243109285</created>
       <updated>1393243109285</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="removed cobertura and maven thingy&#10;">
+      <created>1393243337135</created>
+      <updated>1393243337135</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5128000" />
+    <option name="totallyTimeSpent" value="5618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -612,7 +615,8 @@
     <MESSAGE value="README" />
     <MESSAGE value="Fixed dependencies" />
     <MESSAGE value="added maven plugin&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added maven plugin&#10;" />
+    <MESSAGE value="removed cobertura and maven thingy&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed cobertura and maven thingy&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -787,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="21" selection-start="1235" selection-end="1235" vertical-scroll-proportion="-1.0258621" vertical-offset="918" max-vertical-offset="1309">
+        <state line="15" column="40" selection-start="605" selection-end="605" vertical-scroll-proportion="0.5862069" vertical-offset="51" max-vertical-offset="1309">
           <folding />
         </state>
       </provider>
